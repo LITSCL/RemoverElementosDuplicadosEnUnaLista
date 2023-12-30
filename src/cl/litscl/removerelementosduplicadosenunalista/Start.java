@@ -5,7 +5,6 @@ import java.util.ArrayList;
 public class Start {
 
 	public static void main(String[] args) {
-	
 		//1. Crear la lista duplicada.
         ArrayList<String> listaDuplicada = new ArrayList<String>();
         
